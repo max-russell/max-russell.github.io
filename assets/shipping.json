@@ -5,10 +5,13 @@
   },
   {
     "type": "2-Day",
-    "price": 9.99
+    "price": 12.99
   },
   {
     "type": "Postal",
     "price": 2.99
   }
+  {
+	  "type": "Super Express",
+	  "price": 99.99
 ]
